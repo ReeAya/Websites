@@ -1,0 +1,28 @@
+@import "abstracts/functions.scss";
+@import "abstracts/mixins.scss";
+@import "abstracts/variables.scss";
+//
+@import "base/base.scss";
+@import "base/animations.scss";
+@import "base/typography.scss";
+@import "base/utilities.scss";
+//
+@import "layout/footer";
+@import "layout/grid";
+@import "layout/header";
+@import "layout/navigation";
+//
+@import "components/bg-video";
+@import "components/button.scss";
+@import "components/card";
+@import "components/composition";
+@import "components/feature-box";
+@import "components/form";
+@import "components/popup";
+@import "components/story";
+//
+@import "pages/home.scss";
+//
+//box-shadow: first number is x axis, second is why axis shadow, third is the blurry shaddow= (btn:visited & btn:active)box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);//
+//.logo:hover {
+//animation: moveInLeft 3s;}//

@@ -1,0 +1,75 @@
+# The Cake Factory
+
+## Table of contents
+
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
+
+## Overview
+
+This is a personal project of mine that I created using Mr. Jonas Schmedtmann's design, to create a responsive, CSS & HTML only project.
+
+### Screenshot
+
+![](./Screenshot%202022-05-26%20100735.png)
+![](./Screenshot%202022-05-26%20100811.png)
+![](./Screenshot%202022-05-26%20100830.png)
+![](./Screenshot%202022-05-26%20100902.png)
+![](./Screenshot%202022-05-26%20100920.png)
+![](./Screenshot%202022-05-26%20100938.png)
+![](./Screenshot%202022-05-26%20100954.png)
+![](./Screenshot%202022-05-26%20101012.png)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS
+- CSS Preprocessor SASS
+
+### What I learned
+
+This is an extremely fun project I'm working on and I hope to complete it soon.
+
+See a code snippet below:
+
+```sass
+
+.footer {
+    background-color: #333;
+    padding: 10rem 0;
+    font-size: 1rem;
+    text-transform: uppercase;
+    color: $color-pastel-purple;
+    &__logo-box {
+        text-align: center;
+    }
+    &__logo {
+        width: 15rem;
+        height: auto;
+        margin-bottom: 5rem;
+    }
+}
+
+```
+
+### Useful resources
+
+- [Advanced CSS Course](https://www.udemy.com/course/advanced-css-and-sass)
+
+## Author
+
+- Frontend Mentor - [@ReeAya](https://www.frontendmentor.io/profile/ReeAya)
+
+## Acknowledgments
+
+Shout out to Mr. Jonas Schmedtmann for his help with building this project.
